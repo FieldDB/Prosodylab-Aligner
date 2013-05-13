@@ -1,0 +1,12 @@
+
+# A per-language configuration file
+dictionary.txt
+
+# Prosidy Lab Aligner output files
+.SCORES.txt
+.dat
+.dat/*
+.idea
+*.ops
+*.mlf
+*.htk
